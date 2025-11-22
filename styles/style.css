@@ -116,3 +116,98 @@ footer {
       width: 400px;
       box-shadow: 0 5px 3px rgb(192, 0, 0);
     }
+    .bodyy{
+            background: rgb(255, 253, 249);
+        }
+        .evnt{
+            color: brown;
+            text-decoration: underline 5px brown;
+        }
+        .butn{
+            background-color: #a60c2c;
+            color: white;
+            padding: 10px 25px;
+        }
+        .butn:hover{
+            background: black;
+            color: white;
+            transform: translatex(8px);
+            transition: 0.3s;
+        }
+        .clr
+        {
+            color: brown;
+            font-family: "Georgia", serif;
+        }
+        .font{
+            font-size: 15px;
+        }
+        .arrow{
+            font-size: 30px;
+        }
+        .arrow:hover{
+            color: brown;
+        }
+        .line{
+            border: 2px solid brown;
+        }
+        .hfont{
+            font-size: 50px;
+        }
+        .vid{
+            color: #a60c2c;
+            font-weight: bold;
+        }
+.colru {
+        color: brown;
+        text-decoration: underline 3px;
+      }
+      .colr {
+        color: brown;
+        font-family: "Times New Roman", Times, serif;
+      }
+      .icone {
+        background: #a60c2c;
+        border-radius: 50%;
+        width: 60px;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 30px;
+        color: white;
+      }
+      .icone:hover{
+        transform: scale(1.2);
+        transition: 0.5s;
+      }
+      .box {
+        display: flex;
+        align-items: center;
+      }
+      .boxf {
+        box-shadow: 0 0 5px brown;
+        height: 350px;
+        border: 2px solid brown;
+      }
+      input{
+        font-family: 'Times New Roman', Times, serif;
+        border-radius:6px;
+        border: 2px solid brown;
+      }
+      .bttn{
+        background: brown;
+        color: white;
+      }
+      .bttn:hover{
+        background: black;
+            color: white;
+            transform: translatex(8px);
+            transition: 0.3s;
+      }
+      .msg{
+        height: 60px;
+      }
+      .map-box {
+        height: 350px;
+      }
